@@ -27,7 +27,7 @@ A beginner Python mini-project where the computer randomly selects a number betw
 
 ## 📷 Sample Gameplay
 
-> ![Sample Gameplay](output.png)
+> ![Sample Gameplay](output.PNG)
 
 ## 📚 Concepts Practiced
 
